@@ -1,87 +1,111 @@
 
 <h1 align="center">Bonjour, je suis Yassamine 👋</h1>
 
-<p align="center">
-  <strong>Étudiante en Ingénierie des Données</strong>
-</p>
+<h3 align="center">
+  Étudiante en Science des Données | Data Science Student
+</h3>
 
 <p align="center">
-  Passionnée par la programmation, la science des données
-  et les nouvelles technologies.
+  Passionnée par les données, la programmation et les nouvelles technologies.
 </p>
 
 <p align="center">
   <a href="https://github.com/Yassamine-OBBA">
     <img src="https://img.shields.io/badge/GitHub-Yassamine--OBBA-24292e?style=flat&logo=github" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-555555?style=flat" alt="Data Science">
+  <img src="https://img.shields.io/badge/Field-Data%20Science-555555?style=flat" alt="Data Science">
+  <img src="https://img.shields.io/badge/Focus-Learning-777777?style=flat" alt="Learning">
 </p>
 
 ---
 
-## À propos de moi
+## 👩‍💻 À propos de moi
 
-- 🎓 Étudiante à l'École Supérieure de Technologie de Kalaa des Sraghna.
-- 💻 Spécialisée en Ingénierie des Données.
-- 📊 Intéressée par la science des données et le Big Data.
-- 🤖 Passionnée par l'intelligence artificielle.
-- 🌱 Toujours en train d'apprendre et de développer mes compétences.
-- 🎯 Mon objectif : devenir une professionnelle dans le domaine de la Data.
+- 🎓 Étudiante en Science des Données.
+- 💻 Passionnée par la programmation et l'informatique.
+- 📊 Intéressée par l'analyse et la visualisation des données.
+- 🤖 Curieuse de découvrir le Machine Learning et l'Intelligence Artificielle.
+- 🌱 Toujours motivée à apprendre de nouvelles technologies.
+- 🎯 Mon objectif : développer mes compétences et réaliser des projets innovants dans le domaine de la Data Science.
 
 ---
 
-## Compétences techniques
+## 🛠️ Compétences techniques
 
-**Langages de programmation**
+### Langages de programmation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" alt="Programming languages">
+</p>
 
-**Bases de données et outils**
+### Bases de données
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
+</p>
 
-**Domaines d'intérêt**
+### Outils et technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools">
+</p>
+
+---
+
+## 📚 Domaines d'intérêt
 
 - Data Science
+- Data Analysis
 - Big Data
 - Intelligence Artificielle
-- Analyse et traitement des données
+- Machine Learning
+- Bases de données
+- Programmation orientée objet
 
 ---
 
-## Mes projets
+## 🚀 Mes projets
 
-### Stadium DB
-Projet autour de la gestion des données d'un stade.
+### 🏟️ Stadium DB
 
-[Voir le projet sur GitHub](https://github.com/Yassamine-OBBA/stadium_db)
+Projet de gestion et d'organisation des données d'un stade.
+
+[Consulter le projet](https://github.com/Yassamine-OBBA/stadium_db)
+
+### 💡 Projets académiques
+
+Développement de projets pratiques dans les domaines de la programmation, des bases de données et de la science des données.
+
+[Découvrir mes repositories](https://github.com/Yassamine-OBBA?tab=repositories)
 
 ---
 
-## Objectifs
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassamine-OBBA&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassamine-OBBA&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+---
+
+## 🎯 Mes objectifs
 
 - Approfondir mes connaissances en Python.
-- Développer mes compétences en Data Engineering.
-- Réaliser des projets pratiques en Big Data.
-- Explorer les applications de l'intelligence artificielle.
+- Maîtriser les techniques d'analyse des données.
+- Développer mes compétences en Machine Learning.
+- Réaliser des projets en Big Data.
+- Construire un portfolio professionnel.
 
 ---
 
-## Me retrouver sur GitHub
-
 <p align="center">
-  <a href="https://github.com/Yassamine-OBBA">
-    <img src="https://img.shields.io/badge/Visiter%20mon%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visiter mon GitHub">
-  </a>
+  <strong>Merci de visiter mon profil GitHub !</strong>
 </p>
 
 <p align="center">
-  <i>Merci de visiter mon profil !</i>
+  <i>Learning every day, building step by step. 🚀</i>
 </p>
-
