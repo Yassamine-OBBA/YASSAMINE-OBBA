@@ -1,184 +1,118 @@
+# 👩‍💻 Yassamine OBBA
 
-<!-- ============================= -->
-<!--       YASSAMINE PROFILE       -->
-<!-- ============================= -->
+### Étudiante en Science des Données | Future Data Scientist
 
-<div align="center">
-
-<img src="https://github.com/Yassamine-OBBA.png"
-     width="145"
-     height="145"
-     style="border-radius:50%;"
-     alt="Yassamine OBBA"/>
-
-# Yassamine OBBA
-
-### Étudiante en Science des Données
-
-**Data Science | Big Data | Software Development**
-
-<p>
-  <a href="https://github.com/Yassamine-OBBA">
-    <img src="https://img.shields.io/badge/GitHub-Yassamine--OBBA-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Level-Intermediate-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-777777?style=flat-square" />
-</p>
-
-</div>
+**Data Science • Big Data • Programmation**
 
 ---
 
-## À propos de moi
+## 👋 À propos de moi
 
-Bonjour ! Je suis **Yassamine**, étudiante en Science des Données, intéressée par le développement informatique, l'analyse des données et les technologies du Big Data.
+Bonjour ! Je suis **Yassamine OBBA**, étudiante en **Licence Science des Données**, passionnée par l'analyse des données, les nouvelles technologies et l'intelligence artificielle.
 
-J'aime transformer mes connaissances théoriques en projets pratiques et découvrir de nouvelles technologies.
+Je développe progressivement mes compétences en programmation, analyse de données, bases de données et technologies Big Data. Je m'intéresse également au Machine Learning et j'apprends actuellement ses concepts fondamentaux.
 
-- 🎓 Étudiante en Science des Données.
-- 💻 Intéressée par le développement logiciel.
-- 📊 Passionnée par l'analyse et le traitement des données.
-- 🚀 En apprentissage des technologies Big Data.
-- 🤖 Intéressée par l'intelligence artificielle.
-- 🌱 Toujours motivée à apprendre et à progresser.
+- 🎓 Formation : Licence en Science des Données
+- 💡 Domaine d'intérêt : Data Science & Intelligence Artificielle
+- 📚 Actuellement en apprentissage : Machine Learning
+- 🚀 Objectif professionnel : Devenir Data Scientist
 
 ---
 
-## Technologies & Compétences
+## 🛠️ Compétences techniques
 
 ### Langages de programmation
+- Python
+- Java
+- C++
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css" />
-</p>
+### Analyse de données
+- Pandas — Connaissances de base
+- NumPy — Connaissances de base
+- Nettoyage des données — En cours d'apprentissage
+- Visualisation des données — En cours d'apprentissage
 
 ### Bases de données
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-
-
-## Big Data 
-
-Étudiante en Science des Données, je développe mes compétences dans le traitement, le stockage et l'analyse des données à grande échelle.
+- SQL / MySQL
+- MongoDB
 
 ### Technologies Big Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=hadoop,spark,docker,mongodb,mysql,python" />
-</p>
-
-### Domaines techniques
-
-| Domaine | Technologies |
-|---|---|
-| Distributed Storage | HDFS, Hadoop |
-| Data Processing | Apache Spark |
-| Parallel Computing | Spark RDD |
-| NoSQL Databases | MongoDB |
-| Relational Databases | SQL |
-| Containerization | Docker |
-| Programming | Python |
-
-### Travaux pratiques & projets
-
-- **Hadoop & HDFS :** découverte du stockage distribué et de la réplication des données.
-- **Apache Spark :** traitement parallèle et analyse de grands volumes de données.
-- **MapReduce :** compréhension du traitement distribué des données.
-- **MongoDB :** manipulation de bases de données NoSQL et agrégations.
-- **Docker :** création et gestion d'environnements distribués.
-- **Data Processing :** comparaison entre traitement séquentiel et parallèle.
-
-### Objectif Big Data
-
-Développer des solutions capables de collecter, stocker, traiter et analyser efficacement de grands volumes de données.
-
----
-
-<p>
-  <img src="https://skillicons.dev/icons?i=hadoop,spark" />
-</p>
+- Hadoop
+- HDFS
+- Apache Spark
+- Spark RDD
+- MapReduce
+- Docker
 
 ### Outils de développement
+- Git
+- GitHub
+- Visual Studio Code
+- HTML
+- CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
----
-
-## Domaines d'intérêt
-
-| Domaine | Intérêts |
-|---|---|
-| Data Science | Analyse et traitement des données |
-| Big Data | Hadoop et Apache Spark |
-| Database | SQL et MongoDB |
-| Development | Python, Java et C++ |
-| Web | HTML et CSS |
-| Technologies | Docker et Git |
+### Machine Learning & Intelligence Artificielle
+- Machine Learning — En cours d'apprentissage
+- Intelligence Artificielle — Domaine d'intérêt
+- Analyse prédictive — Découverte des concepts
 
 ---
 
-## Projets sélectionnés
+## 📊 Expérience académique en Big Data
 
-### 🏟️ Stadium DB
+À travers mes travaux pratiques universitaires, j'ai exploré plusieurs technologies et concepts :
 
-Projet académique autour de la gestion et de l'organisation des données d'un stade.
-
-[Voir le repository →](https://github.com/Yassamine-OBBA/stadium_db)
-
-### 💻 Projets académiques
-
-Projets et travaux pratiques dans les domaines de la programmation, des bases de données et du Big Data.
-
-[Explorer tous mes projets →](https://github.com/Yassamine-OBBA?tab=repositories)
+- Traitement distribué des données avec Hadoop et HDFS.
+- Traitement des données avec Apache Spark et RDD.
+- Concepts de MapReduce et traitement parallèle.
+- Manipulation de bases de données MongoDB.
+- Utilisation de Docker dans des environnements Big Data.
+- Comparaison entre le traitement séquentiel et parallèle.
 
 ---
 
-## GitHub Statistics
+## 🚀 Projets
 
-<div align="center">
+### 1. Stadium Database
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Yassamine-OBBA&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub Statistics"/>
+Projet de base de données portant sur l'organisation et la gestion des données.
 
-<br/>
+🔗 [Consulter le projet sur GitHub](https://github.com/Yassamine-OBBA/stadium_db)
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassamine-OBBA&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+### 2. Projets académiques Big Data
 
-</div>
+Travaux pratiques autour de Hadoop, HDFS, Spark, MapReduce, MongoDB et Docker.
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yassamine-OBBA&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
-
-</div>
+🔗 [Découvrir mes dépôts GitHub](https://github.com/Yassamine-OBBA?tab=repositories)
 
 ---
 
-## Mes objectifs
+## 📈 Statistiques GitHub
 
-- Approfondir mes compétences en Python et Java.
-- Développer des projets en Data Science.
-- Maîtriser les technologies du Big Data.
-- Améliorer mes connaissances en SQL et MongoDB.
-- Explorer les applications de l'intelligence artificielle.
-- Construire un portfolio professionnel.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassamine-OBBA&show_icons=true&theme=transparent&hide_border=true)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassamine-OBBA&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-<div align="center">
+## 🎯 Mes objectifs
 
-### Merci de visiter mon profil !
+- Renforcer mes compétences en Python.
+- Approfondir mes connaissances en Pandas et NumPy.
+- Développer mes connaissances en statistiques et analyse de données.
+- Apprendre le Machine Learning avec Scikit-learn.
+- Réaliser des projets pratiques en Data Science.
+- Approfondir mes compétences en Big Data et Apache Spark.
+- Construire un portfolio professionnel en Science des Données.
 
-**Learn. Build. Innovate.**
+---
 
-<sub>© 2026 — Yassamine OBBA</sub>
+## 📫 Me contacter
 
-</div>
+📧 **Email :** [y.obba2854@uca.ac.ma](mailto:y.obba2854@uca.ac.ma)
+
+💻 **GitHub :** [Yassamine-OBBA](https://github.com/Yassamine-OBBA)
+
+---
+
+⭐ *Toujours apprendre, développer et explorer le monde de la Science des Données.*
