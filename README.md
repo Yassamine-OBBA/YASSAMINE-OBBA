@@ -1,118 +1,153 @@
-# 👩‍💻 Yassamine OBBA
+# 👩‍💻 YASSAMINE OBBA
 
-### Étudiante en Science des Données | Future Data Scientist
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+GitHub+!;Étudiante+en+Science+des+Données;Passionnée+par+la+Data+Science;Big+Data+%7C+Python+%7C+IA;Future+Data+Scientist+🚀" alt="Animation de présentation"/>
+</p>
 
-**Data Science • Big Data • Programmation**
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-DATA%20SCIENCE-0D1117?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FOCUS-BIG%20DATA-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#-à-propos">À propos</a> •
+  <a href="#-compétences">Compétences</a> •
+  <a href="#-projets">Projets</a> •
+  <a href="#-statistiques-github">Statistiques</a> •
+  <a href="#-contact">Contact</a>
+</p>
 
 ---
 
-## 👋 À propos de moi
+## 🌸 À propos
 
-Bonjour ! Je suis **Yassamine OBBA**, étudiante en **Licence Science des Données**, passionnée par l'analyse des données, les nouvelles technologies et l'intelligence artificielle.
+Bonjour ! Je suis **Yassamine OBBA**, étudiante en **Licence Science des Données**.
 
-Je développe progressivement mes compétences en programmation, analyse de données, bases de données et technologies Big Data. Je m'intéresse également au Machine Learning et j'apprends actuellement ses concepts fondamentaux.
+Je m'intéresse à l'analyse des données, au Big Data et à l'intelligence artificielle. Je développe mes compétences à travers des cours, des travaux pratiques et des projets académiques.
 
 - 🎓 Formation : Licence en Science des Données
-- 💡 Domaine d'intérêt : Data Science & Intelligence Artificielle
-- 📚 Actuellement en apprentissage : Machine Learning
-- 🚀 Objectif professionnel : Devenir Data Scientist
+- 📊 Domaine : Data Science
+- ⚡ Intérêts : Big Data, Intelligence Artificielle et Analyse de données
+- 📚 Actuellement : apprentissage du Machine Learning
+- 🎯 Ambition : devenir Data Scientist
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Compétences
 
-### Langages de programmation
-- Python
-- Java
-- C++
+### 💻 Programmation
 
-### Analyse de données
-- Pandas — Connaissances de base
-- NumPy — Connaissances de base
-- Nettoyage des données — En cours d'apprentissage
-- Visualisation des données — En cours d'apprentissage
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
 
-### Bases de données
-- SQL / MySQL
-- MongoDB
+### 📊 Analyse de données
 
-### Technologies Big Data
-- Hadoop
-- HDFS
-- Apache Spark
-- Spark RDD
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Bases-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Bases-013243?style=flat-square&logo=numpy" />
+</p>
+
+### 🗄️ Bases de données
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚡ Big Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=hadoop,spark,docker" />
+</p>
+
+- Hadoop et HDFS
+- Apache Spark et RDD
 - MapReduce
-- Docker
+- Traitement parallèle
 
-### Outils de développement
-- Git
-- GitHub
-- Visual Studio Code
-- HTML
-- CSS
+### 🔧 Outils et développement
 
-### Machine Learning & Intelligence Artificielle
-- Machine Learning — En cours d'apprentissage
-- Intelligence Artificielle — Domaine d'intérêt
-- Analyse prédictive — Découverte des concepts
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" />
+</p>
 
----
+### 🤖 Machine Learning
 
-## 📊 Expérience académique en Big Data
-
-À travers mes travaux pratiques universitaires, j'ai exploré plusieurs technologies et concepts :
-
-- Traitement distribué des données avec Hadoop et HDFS.
-- Traitement des données avec Apache Spark et RDD.
-- Concepts de MapReduce et traitement parallèle.
-- Manipulation de bases de données MongoDB.
-- Utilisation de Docker dans des environnements Big Data.
-- Comparaison entre le traitement séquentiel et parallèle.
+- Machine Learning : en cours d'apprentissage
+- Scikit-learn : prochaine étape
+- Intelligence Artificielle : domaine d'intérêt
 
 ---
 
 ## 🚀 Projets
 
-### 1. Stadium Database
+### 🏟️ Stadium Database
 
-Projet de base de données portant sur l'organisation et la gestion des données.
+Projet académique de gestion et d'organisation des données dans une base de données.
 
-🔗 [Consulter le projet sur GitHub](https://github.com/Yassamine-OBBA/stadium_db)
+[![GitHub](https://img.shields.io/badge/Consulter_le_projet-181717?style=for-the-badge&logo=github)](https://github.com/Yassamine-OBBA/stadium_db)
 
-### 2. Projets académiques Big Data
+### ⚡ Projets Big Data
 
-Travaux pratiques autour de Hadoop, HDFS, Spark, MapReduce, MongoDB et Docker.
+Travaux pratiques sur Hadoop, HDFS, Spark, MapReduce, MongoDB et Docker.
 
-🔗 [Découvrir mes dépôts GitHub](https://github.com/Yassamine-OBBA?tab=repositories)
+[![Mes dépôts](https://img.shields.io/badge/Découvrir_mes_dépôts-2563EB?style=for-the-badge&logo=github)](https://github.com/Yassamine-OBBA?tab=repositories)
 
 ---
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassamine-OBBA&show_icons=true&theme=transparent&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yassamine-OBBA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Statistiques GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassamine-OBBA&layout=compact&theme=tokyonight&hide_border=true" alt="Langages utilisés"/>
+</p>
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassamine-OBBA&layout=compact&theme=transparent&hide_border=true)
+### 🔥 Activité GitHub
 
----
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Yassamine-OBBA&theme=tokyonight&hide_border=true" alt="Série de contributions"/>
+</p>
 
-## 🎯 Mes objectifs
+### 📅 Graphique des contributions
 
-- Renforcer mes compétences en Python.
-- Approfondir mes connaissances en Pandas et NumPy.
-- Développer mes connaissances en statistiques et analyse de données.
-- Apprendre le Machine Learning avec Scikit-learn.
-- Réaliser des projets pratiques en Data Science.
-- Approfondir mes compétences en Big Data et Apache Spark.
-- Construire un portfolio professionnel en Science des Données.
-
----
-
-## 📫 Me contacter
-
-📧 **Email :** [y.obba2854@uca.ac.ma](mailto:y.obba2854@uca.ac.ma)
-
-💻 **GitHub :** [Yassamine-OBBA](https://github.com/Yassamine-OBBA)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassamine-OBBA&theme=tokyo-night&hide_border=true" width="95%" alt="Graphique d'activité GitHub"/>
+</p>
 
 ---
 
-⭐ *Toujours apprendre, développer et explorer le monde de la Science des Données.*
+## 🎯 Objectifs
+
+- [ ] Approfondir Python, Pandas et NumPy.
+- [ ] Améliorer mes compétences en statistiques.
+- [ ] Apprendre Machine Learning avec Scikit-learn.
+- [ ] Réaliser des projets de Data Science.
+- [ ] Développer mes compétences en visualisation.
+- [ ] Approfondir Apache Spark et Big Data.
+- [ ] Construire un portfolio professionnel.
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:y.obba2854@uca.ac.ma">
+    <img src="https://img.shields.io/badge/EMAIL-y.obba2854%40uca.ac.ma-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yassamine-OBBA">
+    <img src="https://img.shields.io/badge/GITHUB-Yassamine--OBBA-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yassamine-OBBA&label=Visites%20du%20profil&color=blueviolet&style=flat-square" alt="Compteur de visites"/>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Merci de visiter mon profil !</b>
+  <br/>
+  <i>Apprendre • Expérimenter • Construire avec les données</i>
+</p>
